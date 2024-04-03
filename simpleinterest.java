@@ -12,6 +12,7 @@ public class simpleinterest{
         r=reader.nextDouble();
         SI=(p*t*r)/100;
         System.out.println("Simple Interest is : "+SI);
+        System.out.println(Simple interest);
         
     }
 }
